@@ -1,22 +1,6 @@
 
 
+https://user-images.githubusercontent.com/106678641/186350454-deb4a10a-69c0-4cf5-94d8-8f549ffa8394.mp4
 
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+<h3>Simple Video Player </h3>
+</h4>#LearnHowToMakeSimpleAndroidApp</h4?
