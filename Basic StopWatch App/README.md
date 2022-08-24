@@ -1,22 +1,4 @@
 
-
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+![ImageStopWatch](https://user-images.githubusercontent.com/106678641/186366711-727a5916-6e9d-4466-94d9-490efc2d7762.jpg)
+<h2>Simple Stop Watch App</h2>
+We provide 3 button for user control!
