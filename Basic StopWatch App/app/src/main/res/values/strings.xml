@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic SportWatch App</string>
+    <string name="spotwatch">SPOTWATCH</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="reset">reset</string>
+</resources>
