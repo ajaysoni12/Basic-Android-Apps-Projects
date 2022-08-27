@@ -1,22 +1,4 @@
+![Image](https://user-images.githubusercontent.com/106678641/187010696-add6ceef-6974-4fcc-83d7-4ecec2563097.png)
 
-
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+<h2>Guess the Number Game</h2>
+  A Simple Guess the number application in which application generates the random number between 1 to 100 and the user has to guess that Number
