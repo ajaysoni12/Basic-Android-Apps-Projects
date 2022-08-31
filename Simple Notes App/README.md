@@ -1,22 +1,5 @@
+![Screenshot (269)](https://user-images.githubusercontent.com/106678641/187580053-aa3b237c-e89f-4b7e-aa77-3bdde8b00eda.png)
+![Screenshot (271)](https://user-images.githubusercontent.com/106678641/187580054-903c9290-bf01-43b4-a16e-be0988f5f99d.png)
+![Screenshot (272)](https://user-images.githubusercontent.com/106678641/187580061-8c9a5886-c1b9-4c03-926d-366dff5e3f71.png)
 
-
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+<h2> Simple Android Notes App </h2>
