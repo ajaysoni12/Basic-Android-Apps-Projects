@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtContent1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:fontFamily="sans-serif-black"
+        android:padding="5dp"
+        android:text="Ajay Soni | Silent Night"
+        android:textColor="#DFD5D5"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtWinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="100dp"
+        android:text="Winner :"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/txtPlayer1"
+        app:layout_constraintStart_toStartOf="@id/txtPlayer1" />
+
+    <TextView
+        android:id="@+id/txtWinnerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginBottom="100dp"
+        android:text="Player Name"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/txtPlayer1"
+        app:layout_constraintStart_toEndOf="@id/txtPlayer1" />
+
+    <TextView
+        android:id="@+id/txtPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="Player 1"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@id/imgPlayer1"
+        app:layout_constraintStart_toStartOf="@id/imgPlayer1" />
+
+    <TextView
+        android:id="@+id/txtPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="50dp"
+        android:text="Player 2"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@id/imgPlayer1"
+        app:layout_constraintStart_toStartOf="@id/imgPlayer2" />
+
+    <ImageView
+        android:id="@+id/imgPlayer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="65dp"
+        android:layout_marginBottom="80dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/dice6"
+        app:layout_constraintBottom_toTopOf="@id/btnRollDice"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgPlayer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="50dp"
+        android:layout_marginBottom="80dp"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/dice6"
+        app:layout_constraintBottom_toTopOf="@id/btnRollDice"
+        app:layout_constraintStart_toEndOf="@id/imgPlayer1" />
+
+
+    <Button
+        android:id="@+id/btnRollDice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="60dp"
+        android:background="@drawable/btn_background"
+        android:ems="10"
+        android:padding="10dp"
+        android:text="Roll the Dice"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
