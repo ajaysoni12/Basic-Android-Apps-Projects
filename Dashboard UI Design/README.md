@@ -1,22 +1,5 @@
+![Screenshot (278)](https://user-images.githubusercontent.com/106678641/188056107-9c50e2bc-ab58-4bad-a982-a3e5ae11e047.png)
 
+<h2> Dashboard UI Design </h2>
 
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+Learn how to make simple ui design 
