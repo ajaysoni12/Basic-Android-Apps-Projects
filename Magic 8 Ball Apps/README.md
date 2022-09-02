@@ -1,22 +1,5 @@
+![Screenshot (279)](https://user-images.githubusercontent.com/106678641/188062902-6b660312-a76b-44e3-9d5f-413222555aa6.png)
 
+<h2> Simple Magic 8 Ball App </h2> 
 
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+ The application is based on a decision making application. In this app, a user can ask the ball what decision they should make. The ball will randomly answer Yes, No, Not Sure, and other such answers.
