@@ -1,22 +1,3 @@
+![Screenshot (280)](https://user-images.githubusercontent.com/106678641/188361495-7dbf993f-d5f9-401d-8ca3-8db62409c8b9.png)
 
-
-
-![App Screenshot](D:\App Development\App Development Project\LoginUIDesign)
-
-
-
-
-
-
-
-
-
-
-
-Simple Login App
-
-This is a java based simple login app which have simple entry email and password. 
-
-One of the first simple apps i created while on my journey to learn android app development. 
-
-Here, I work on User_Interface of Android Apps. 
+<h2> How to implement QR Code Using third pary library </H2> 
